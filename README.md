@@ -4,3 +4,5 @@ This little project was developed from the amazing book [Go Pro](https://www.ama
 ```
 go run .
 ```
+
+- Go to **localhost:5000**
